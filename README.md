@@ -4,7 +4,7 @@
   
   ### Hi 👋, My name is João Vitor
 
-  -💻 Computer Engineering Student at IFSP Campus Birigui (2019-2024).
+  -💻 Computer Engineering Student at IFSP Campus Birigui (2019-2023).
 
   -📍 I live in São Paulo/SP and Birigui/SP
 
