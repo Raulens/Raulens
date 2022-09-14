@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/search/hacker-man-gifs" width=30%>
+  <img src="https://gfycat.com/deliciouslikelycats" width=30%>
   
   ### Hi 👋, My name is João Vitor
 
