@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js" width=30%>
-  
+  ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js)
+
   ### Hi 👋, My name is João Vitor
 
   -💻 Computer Engineering Student at IFSP Campus Birigui (2019-2024).
