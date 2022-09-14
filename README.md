@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img src="https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js" width=30%>
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
   
   ### Hi 👋, My name is João Vitor
 
