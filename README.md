@@ -21,7 +21,7 @@
   <a href="https://github.com/antisocialedin">
    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raulens&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs" />
 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antisocialedin&&layout=compact&theme=dracula" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulens&&layout=compact&theme=dracula" />
  </a>
 </p>
  
@@ -39,8 +39,6 @@
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg>
   <img align="center" alt="Edin-C++" height="30" width="40" 
       src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg>
-  <img align="center" alt="Edin-laravel" height="30" width="40"   
-       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg>
   <img align="center" alt="Edin-Python" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edin-bootstrap" height="30" width="40" 
