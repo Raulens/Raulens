@@ -43,7 +43,8 @@
   <img align="center" alt="João-bootstrap" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg>
   <img align="center" alt="João-bootstrap" height="30" width="40" 
-       src=	ttps://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg>
+       src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg>
+  
   ## 💻 Tools
  
   <img align="center" alt="João-linux" height="30" width="40" 
