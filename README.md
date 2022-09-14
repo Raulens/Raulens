@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gfycat.com/deliciouslikelycats" width=30%>
+  <img src="https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js" width=30%>
   
   ### Hi 👋, My name is João Vitor
 
