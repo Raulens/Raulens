@@ -45,9 +45,9 @@
  
   ## 💻 Tools
  
-  <img align="center" alt="Edin-linux" height="30" width="40" 
+  <img align="center" alt="João-linux" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg>
-  <img align="center" alt="Edin-vim" height="30" width="40" 
+  <img align="center" alt="João-vim" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vim/vim-original.svg>
 
 </div>
@@ -64,4 +64,4 @@
 </div>
  
 
-or send me ♥ on [mail](mailto: joao20874@hotmail.com).
+or send me ♥ on [mail](mailto:joao20874@hotmail.com).
