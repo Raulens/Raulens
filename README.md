@@ -1,7 +1,7 @@
 <p align="center">
-  ![](https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js)
-  <img src="https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js"></img>
-
+  
+  <img src="https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js" width=30%>
+  
   ### Hi 👋, My name is João Vitor
 
   -💻 Computer Engineering Student at IFSP Campus Birigui (2019-2024).
