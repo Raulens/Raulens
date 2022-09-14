@@ -28,21 +28,22 @@
  
   ## ⚡ Tech Stack
  
-  <img align="center" alt="Edin-Js" height="30" width="40" 
+  <img align="center" alt="João-Js" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edin-React" height="30" width="40" 
+  <img align="center" alt="João-React" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Edin-CSS" height="30" width="40" 
+  <img align="center" alt="João-CSS" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edin-mysql" height="30" width="40" 
+  <img align="center" alt="João-mysql" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg>
-  <img align="center" alt="Edin-C" height="30" width="40" 
+  <img align="center" alt="João-C" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg>
-  <img align="center" alt="Edin-C++" height="30" width="40" 
+  <img align="center" alt="João-C++" height="30" width="40" 
       src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg>
-  <img align="center" alt="Edin-bootstrap" height="30" width="40" 
+  <img align="center" alt="João-bootstrap" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg>
- 
+  <img align="center" alt="João-bootstrap" height="30" width="40" 
+       src=	ttps://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg>
   ## 💻 Tools
  
   <img align="center" alt="João-linux" height="30" width="40" 
