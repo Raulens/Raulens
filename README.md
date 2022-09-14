@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif](https://i0.wp.com/tecdica.com.br/wp-content/uploads/2018/02/received_1866143776790180.gif?ssl=1)" width=30%>
+  <img src="https://tenor.com/search/hacker-man-gifs" width=30%>
   
   ### Hi 👋, My name is João Vitor
 
