@@ -1,5 +1,5 @@
 <p align="center">
-  
+  ![](https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js)
   <img src="https://gist.github.com/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436.js"></img>
 
   ### Hi 👋, My name is João Vitor
