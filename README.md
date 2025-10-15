@@ -4,7 +4,6 @@
 - 🎓 **Engenharia da Computação** no IFSP Campus Birigui (2019-2023)
 - 🌍 Resido em São Paulo/SP e Birigui/SP
 - 🔍 Sempre em busca de novas experiências e desafios
-- 🌱 Atualmente aprendendo **React**
 
 ---
 
